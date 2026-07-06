@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+👉 [Click here to view the live dashboard](https://superstore-sales-forecasting-czcbkhhl43wuhisl8qt3vs.streamlit.app/)
+
+---
 # Superstore Sales Forecasting & Demand Intelligence System
 
 ## Project Overview
